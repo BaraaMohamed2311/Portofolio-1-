@@ -434,6 +434,7 @@ ul li a.active::after{
    }
 
  .skills .card{
+    cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -544,6 +545,7 @@ ul li a.active::after{
      }
 
      .projects .card{
+        cursor: pointer;
         display: flex;
         justify-content: center;
         align-items: center;
